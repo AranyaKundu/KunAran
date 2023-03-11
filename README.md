@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&multiline=True&color=40924D&width=500&lines=Aranya+Kundu;Student+%7C+MS+in+Business+Analytics;Machine+Learning%2F+Text+Analysis%2F+Image+Recognition)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Calligraphy&duration=2000&pause=100&color=40924D&center=true&multiline=true&width=500&height=80&lines=Aranya+Kundu;Student+%7C+MS+in+Business+Analytics;Machine+Learning%2F+Text+Analysis%2F+Image+Recognition)](https://git.io/typing-svg)
 
 <br><br><br><br>
 
